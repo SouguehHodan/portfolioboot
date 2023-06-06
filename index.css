@@ -1,0 +1,18 @@
+*{
+    margin: O;
+    padding: 0;
+    box-sizing: border-box;
+}
+#AA{
+    margin-top: 20%;
+   
+}
+#navbarNav{
+    justify-content: end;
+}
+.item-1{
+    font-size: 25px;
+}
+#BB{
+    text-align: center;
+}
